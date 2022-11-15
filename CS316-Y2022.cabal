@@ -51,8 +51,11 @@ library
                        Week07Problems,
                        Week07Solutions,
                        Week08,
+                       Week08Intro,
                        Week08Problems,
+                       Week08Solutions,
                        Week09,
+                       Week09Intro,
                        Week10
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5,
